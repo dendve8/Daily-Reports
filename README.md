@@ -107,7 +107,7 @@ Kontribusi sangat diterima! Jika Anda menemukan bug atau memiliki ide fitur baru
 Proyek ini dilisensikan di bawah lisensi MIT. Lihat [LICENSE](LICENSE) untuk informasi lebih lanjut.
 
 ## Kontak
-Jika ada pertanyaan atau masukan, silakan hubungi saya melalui [Telegram](https://t.me/username).
+Jika ada pertanyaan atau masukan, silakan hubungi saya melalui [Telegram](https://t.me/dendve8)).
 
 ---
 ![image](https://github.com/user-attachments/assets/b0b39b20-5ea7-4ba7-a5a8-1a83bded147f)
